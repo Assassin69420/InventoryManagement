@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: django-login-required
+Version: 0.2
+Summary: A Django Middleware to protect all URLs behind a login
+Home-page: http://github.com/pedro-walter/django-login-required
+Author: Pedro Walter
+Author-email: pedronogueirawalter@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+
+
